@@ -9,5 +9,8 @@ The analysis was conducted using Python through Jupyter Notebook, employing mach
 ## Dataset
 You can access the data [here](https://www.kaggle.com/datasets/swathiunnikrishnan/amazon-consumer-behaviour-dataset)
 
-## Analysis and Code
-The full analysis, including detailed code and visualizations, is documented in the Jupyter Notebook file in this [branch](https://github.com/duyanhh4/Amazon-Customer-Analysis/blob/main/Amazon%20Customer%20Analysis.ipynb)
+## Code
+The full code and visualizations is documented in the Jupyter Notebook file in this [branch](https://github.com/duyanhh4/Amazon-Customer-Analysis/blob/main/Amazon%20Customer%20Analysis.ipynb)
+
+## Analysis
+A detailed analysis of the findings and visualizations is documented in the Word document in this [branch](https://github.com/duyanhh4/Amazon-Customer-Analysis/blob/main/Amazon%20Customer%20Analysis.docx)
